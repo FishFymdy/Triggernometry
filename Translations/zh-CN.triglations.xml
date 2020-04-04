@@ -1419,7 +1419,7 @@
         <TranslationEntry Key="VariableEditorForm/btnItemRemove" Translation="移除子项" />
         <TranslationEntry Key="VariableEditorForm/btnOk" Translation="确定" />
         <TranslationEntry Key="VariableEditorForm/btnRowAdd" Translation="添加行" />
-        <TranslationEntry Key="VariableEditorForm/btnRowInsert" Translation="插入航" />
+        <TranslationEntry Key="VariableEditorForm/btnRowInsert" Translation="插入行" />
         <TranslationEntry Key="VariableEditorForm/btnRowRemove" Translation="删除行" />
         <TranslationEntry Key="VariableEditorForm/grpGeneral" Translation=" 通用设置 " />
         <TranslationEntry Key="VariableEditorForm/lblVariableName" Translation="变量名" />
